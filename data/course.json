@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "8bd958fd-4547-0b94-018b-ba84af9c8afc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Social Theory and the City",
+  "course_description": "This course explores how social theories of urban life can be related to the city's architecture and spaces. It is grounded in classic or foundational writings about the city addressing such topics as the public realm and public space, impersonality, crowds and density, surveillance and civility, imprinting time on space, spatial justice, and the segregation of difference. The aim of the course is to generate new ideas about the city by connecting the social and the physical, using Boston as a visual laboratory. Students are required to present a term paper mediating what is read with what has been observed.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.329",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
